@@ -42,15 +42,6 @@ Portfolio/
 
 ---
 
-## 👨‍💻 Author
-Your Name
-
----
-
 ## 📌 Purpose
 This project is built to showcase my frontend development skills and serve as my personal developer portfolio.
 
----
-
-## 📸 Preview
-(Add screenshot of your portfolio here)
